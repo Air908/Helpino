@@ -1,7 +1,3 @@
-Below is a professional `README.md` file based on the services and identity of **Helpino.in**. This is designed for a GitHub repository or a project folder.
-
----
-
 # Helpino | Customer Support Operations & Consulting
 
 [Helpino.in](https://helpino.in/) is a specialized consulting platform dedicated to helping startups and growing companies build, scale, and optimize their customer service operations. Founded by CX experts with experience at global brands like Spotify and Netflix, Helpino bridges the gap between high-level strategy and hands-on execution.
@@ -46,7 +42,3 @@ Helpino specializes in integrating and managing the following tools:
 
 * **Website:** [https://helpino.in/](https://helpino.in/)
 * **Booking:** Free consultation calls are available via the website for founders and CX leaders.
-
----
-
-> *"Helping you take great care of your customers while you focus on building your product."*
